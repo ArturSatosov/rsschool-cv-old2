@@ -18,3 +18,5 @@ I am looking to collaborate with EPAM. I am interested in IT technology.
 ### English ### 
 A1-A2 
 "Courses Open world Learning English"
+### Completed project ###
+CV registration :)
