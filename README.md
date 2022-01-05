@@ -1,1 +1,1 @@
-Это проект Артура Сатосова
+https://ArturSatosov.github.io/rsschool-cv/cv
