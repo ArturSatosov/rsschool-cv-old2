@@ -13,8 +13,13 @@ Kama Polytechnic of Institute, Naberezhnye Chelny
 147 Automobile Base of the Ministry of Defense of the Russian Federation
 ___
 ### About me ###
-I am engineer-constructor. I am developing construction documentation for macking stell constraction.
-I am looking to collaborate with EPAM. I am interested in IT technology.
+1. I am engineer-constructor.
+2. I am developing construction documentation(CMD- construction metal detailing) for macking stell constraction in 3d programm.
+3. I am looking to collaborate with EPAM.
+4. I am interested in IT technology.
+### Code example ###
+* =if P1 ==1 then 0 else 1 endif
+* =if (P1 == 1 && P5 ==1) then 1 else 0 endif
 ### English ### 
 A1-A2 
 "Courses Open world Learning English"
