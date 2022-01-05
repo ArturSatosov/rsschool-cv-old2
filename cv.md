@@ -17,12 +17,11 @@ ___
 2. I am developing construction documentation(CMD- construction metal detailing) for macking stell constraction in 3d programm.
 3. I am looking to collaborate with EPAM.
 4. I am interested in IT technology.
-_____
+___
 ### Code example ###
 * =if P1 ==1 then 0 else 1 endif
 * =if (P1 == 1 && P5 ==1) then 1 else 0 endif
 * =if P1==1 then 32 else -32 endif
-
 ***
 ### English ### 
 A1-A2 
